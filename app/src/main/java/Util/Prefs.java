@@ -3,9 +3,7 @@ package Util;
 import android.app.Activity;
 import android.content.SharedPreferences;
 
-/**
- * Created by Rohitdalvi on 4/18/2016.
- */
+
 public class Prefs {
 
     SharedPreferences preferences;

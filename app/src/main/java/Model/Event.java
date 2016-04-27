@@ -1,8 +1,5 @@
 package Model;
 
-/**
- * Created by Rohitdalvi on 4/18/2016.
- */
 public class Event {
 
     private String title;
